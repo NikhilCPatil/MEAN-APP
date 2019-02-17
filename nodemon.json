@@ -1,0 +1,7 @@
+
+{
+  "env":{
+    "MONGO_PASS":"nikhilcpatil",
+    "JWT_TOKEN":"this_is_a_secret_key"
+  }
+}
